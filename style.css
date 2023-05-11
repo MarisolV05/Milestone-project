@@ -1,0 +1,47 @@
+
+h1 {
+    color: rgb(58, 90, 127);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    
+    
+
+}
+body {
+  
+    background-color: beige;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  table { 
+    border-collapse: collapse;
+    margin: auto;
+    background-color: aliceblue;
+
+  }
+  td {
+    width: 200px;
+    height: 200px;
+    vertical-align: middle;
+    border: 2px solid black;
+    text-align: center;
+    font-family: "permanent Marker" cursive;
+    box-shadow: 0 0 0 2px;
+    cursor: pointer;
+  }
+
+  .x {
+    color: red;
+    font-size: 100px;
+  }
+
+  .o {
+    color:rgb(58, 90, 127);
+    font-size: 100px;
+  }
+.restart {
+    margin-top: -40em;
+    margin-left: 40px;
+    
+}
