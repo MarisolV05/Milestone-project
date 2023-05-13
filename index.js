@@ -23,7 +23,7 @@ for (let i = 0; i <= 8; i++) {
         "click",
         function() {
             if (this.innerHTML === "" && !gameEnded) {
-//style x and 0
+//displays and style x and o
                 this.innerHTML = playerSymbol;
                 this.classList.add(playerSymbol.toLowerCase());
  // check if a player has won
@@ -47,16 +47,16 @@ checkWin();
            document.getElementById(winPos[i][1]).innerHTML === playerSymbol &&
            document.getElementById(winPos[i][2]).innerHTML === playerSymbol 
        
-         ) {
-       document.getElementById(winPos[i][0]).classList.add("win");
-       document.getElementById(winPos[i][1]).classList.add("win");
-       document.getElementById(winPos[i][2]).classList.add("win");
-      gameEnded = true;
+           ) {
+               document.getElementById(winPos[i][0]).classList.add("win");
+               document.getElementById(winPos[i][1]).classList.add("win");
+               document.getElementById(winPos[i][2]).classList.add("win");
 
-      setTimeout(function() {
-        alert(playerSymbol + "win");
-      }, 500);
-   
+               setTimeout(function() {
+                 alert(playerSymbol+" "+ "wins");
+               }, 1000);
+
+               gameEnded = true;  
 } 
 
   }

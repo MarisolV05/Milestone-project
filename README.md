@@ -30,7 +30,7 @@ Tic Tac toe!
 
 ### MVP Criteria
 
-XXX IMPORTANT! Replace the text below as you list the MVP criteria you met AND THEN DELETE THIS LINE XXX
+
 
 - Game must have tie if no winner.
 - Styling
@@ -39,17 +39,17 @@ XXX IMPORTANT! Replace the text below as you list the MVP criteria you met AND T
 ### Post-MVP Plans
 
 
-
+- background music.
 - adding more styling.
-- 
+- adding tie function.
 
 
 ## Project Planning
 
 | Date | Goals |
 | ---- | ----- |
-| Mon. 2/1 2/15 |      |
-| Sat. 2/18 |      |
-| Mon. 2/20 |      |
-| Wed. 2/22 |      |
-| Sat. 2/25 | Deploy to GitHub Pages. Submit completed project. Project presentations. |
+| 5/3/2023 | Watched videos on javascript  |
+| 5/6/2023|  made git hub and started my read me.    |
+| 5/8/2023 | Started my HTMl/CSS/JS file    |
+| 5/10/2023 | Worked on completing my goals   |
+| 5/13/2023 | Deploy to GitHub Pages. Submit completed project. Project presentations. |
