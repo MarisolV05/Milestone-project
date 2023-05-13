@@ -10,7 +10,7 @@ Complete the planning sections below and include them in the README.md of your p
 
 ## Deployment
 
-The web game is deployed at <YOUR DEPLOYED GITHUB.IO URL GOES HERE>.
+The web game is deployed at <https://marisolv05.github.io/Milestone-project/.
 
 
 ## Project Description
@@ -21,8 +21,8 @@ Tic Tac toe!
 ## Game Logic
 
 -First player to get 3 of X or O in a row (up, down, across, or diagonally) is the winner.
--When all 9 squares are full game is over
--If no player has 3 marks in a row. The game is tie. 
+-When all 9 squares are full and there are no 3 in a row it is a tie.
+
 
 
 
@@ -33,7 +33,7 @@ Tic Tac toe!
 
 ### MVP Criteria
 
-XXX IMPORTANT! Replace the text below as you list the MVP criteria you met AND THEN DELETE THIS LINE XXX
+
 
 - Game must have tie if no winner.
 - Styling
@@ -50,9 +50,9 @@ XXX IMPORTANT! Replace the text below as you list what you would do to improve t
 
 | Date | Goals |
 | ---- | ----- |
-| Mon. 2/13 | Create GitHub repository. Complete README.md. |
-| Wed. 2/15 |      |
+| Mon. 2/1 2/15 |      |
 | Sat. 2/18 |      |
 | Mon. 2/20 |      |
 | Wed. 2/22 |      |
-| Sat. 2/25 | Deploy to GitHub Pages. Submit completed project. Project presentations. |
+| Sat. 2/253 | Create GitHub repository. Complete README.md. |
+| Wed. | Deploy to GitHub Pages. Submit completed project. Project presentations. |

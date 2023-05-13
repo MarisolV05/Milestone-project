@@ -35,10 +35,9 @@ for (let i = 0; i <= 8; i++) {
  else
  playerSymbol = "X"
 
-
 }
 } );     
-
+}
 
  function checkWin(){
    for (let i = 0; i < winPos.length; i++){
@@ -49,14 +48,16 @@ for (let i = 0; i <= 8; i++) {
            document.getElementById(winPos[i][2]).innerHTML === playerSymbol 
        
          ) {
-       document.getElementById(winPos[i][0]).classList.add("win"),
-       document.getElementById(winPos[i][1]).classList.add("win"),
-       document.getElementById(winPos[i][2]).classList.add("win"),
+       document.getElementById(winPos[i][0]).classList.add("win");
+       document.getElementById(winPos[i][1]).classList.add("win");
+       document.getElementById(winPos[i][2]).classList.add("win");
       gameEnded = true;
 
-  
-         }}
-   
+      setTimeout(function() {
+        alert(playerSymbol + "win");
+    },
+      );     
+}
   }
 }
          
@@ -74,3 +75,4 @@ document.getElementById("restart").addEventListener(
     }
 
 );
+ 
