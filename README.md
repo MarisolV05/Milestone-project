@@ -10,7 +10,7 @@ Complete the planning sections below and include them in the README.md of your p
 
 ## Deployment
 
-The web game is deployed at <YOUR DEPLOYED GITHUB.IO URL GOES HERE>.
+The web game is deployed at https://marisolv05.github.io/Milestone-project/
 
 
 ## Project Description
@@ -26,14 +26,10 @@ Tic Tac toe!
 
 
 
-## Deliverables
-
-
 
 
 ### MVP Criteria
 
-XXX IMPORTANT! Replace the text below as you list the MVP criteria you met AND THEN DELETE THIS LINE XXX
 
 - Game must have tie if no winner.
 - Styling
@@ -41,9 +37,10 @@ XXX IMPORTANT! Replace the text below as you list the MVP criteria you met AND T
 
 ### Post-MVP Plans
 
-XXX IMPORTANT! Replace the text below as you list what you would do to improve the game post-MVP AND THEN DELETE THIS LINE XXX
+
 
 - adding more styling.
+- 
 
 
 ## Project Planning
