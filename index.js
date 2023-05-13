@@ -28,8 +28,8 @@ for (let i = 0; i <= 8; i++) {
                 this.classList.add(playerSymbol.toLowerCase());
  // check if a player has won
 
- checkWin();
-
+checkWin();
+        
  if (playerSymbol === "X")
  playerSymbol = "O"
  else
@@ -55,9 +55,10 @@ for (let i = 0; i <= 8; i++) {
 
       setTimeout(function() {
         alert(playerSymbol + "win");
-    },
-      );     
-}
+      }, 500);
+   
+} 
+
   }
 }
          
